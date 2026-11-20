@@ -1,0 +1,8 @@
+PyQt6
+PyQt6-WebEngine
+pygame
+uiautomation
+send2trash
+numpy<2
+neuvoice
+sounddevice
